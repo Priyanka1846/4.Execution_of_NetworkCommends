@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/706767e7-77a3-4b03-846a-6c419e63c1b6)
 
 ![image](https://github.com/user-attachments/assets/c4c55993-5475-4545-bb4a-48bb1a2fa5c2)
 
